@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"HairFortin™ (Official) Get 50% Off + Free Bonuses",
+  "short_name":"HairFortin™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"HairFortin is a supplement that contains antioxidants and can protect the hair from diseases.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
